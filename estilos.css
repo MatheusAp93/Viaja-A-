@@ -1,0 +1,33 @@
+.texto-menor {
+  font-size: 20px;
+}
+
+.divs-facilidades {
+  width: 500px;
+}
+
+.img-size {
+  height: 250px;
+}
+
+.img-parceiro {
+  height: 300px;
+}
+
+.verde-limao {
+  color: #DAFF01;
+}
+
+.botao-lilas {
+  background-color: #9353FF
+}
+
+.posicao {
+  top: 40%;
+}
+
+@media(max-width: 767px) {
+  .posicao {
+    top: 60%;
+  }
+}
