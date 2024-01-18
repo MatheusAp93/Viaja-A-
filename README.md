@@ -5,7 +5,7 @@ Este projeto, denominado "Viaja Aí!", foi desenvolvido como parte de um curso a
 
 ## Demonstração
 
-Para visualizar uma demonstração do site, acesse [aqui](https://matheusap93.github.io/CineOpina/).
+Para visualizar uma demonstração do site, acesse [aqui](https://matheusap93.github.io/Viaja-Ai/).
 
 ## Tecnologias Utilizadas
 
@@ -33,7 +33,7 @@ Para visualizar uma demonstração do site, acesse [aqui](https://matheusap93.gi
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/MatheusAp93/CineOpina.git
+git clone https://github.com/MatheusAp93/Viaja-Ai.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador preferido.
